@@ -1,5 +1,8 @@
 _repo: La-Comedie-humaine-Volume-08-Scenes-de-la-vie-de-Province-Tome-04_54723
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54723-h/images/cover.jpg
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -16,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54723#La-Comedie-humaine-Volume-08-Scenes-de-la-vie-de-Province-Tome-04
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2017-05-14'
 gutenberg_type: Text
